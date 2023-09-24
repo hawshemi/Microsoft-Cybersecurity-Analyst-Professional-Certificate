@@ -10,3 +10,42 @@ Microsoft Cybersecurity Analyst Professional Certificate
 ####    **Certificate:** __
 #
 
+### 2. [Cybersecurity Threat Vectors and Mitigation](https://www.coursera.org/learn/cybersecurity-threat-vectors-and-mitigation?specialization=microsoft-cybersecurity-analyst)
+
+####    **Certificate:** __
+#
+
+### 3. [Cybersecurity Threat Vectors and Mitigation](https://www.coursera.org/learn/cybersecurity-threat-vectors-and-mitigation?specialization=microsoft-cybersecurity-analyst)
+
+####    **Certificate:** __
+#
+
+### 4. [Cybersecurity Identity and Access Solutions using Azure AD](https://www.coursera.org/learn/cybersecurity-identity-and-access-solutions-with-azure-ad?specialization=microsoft-cybersecurity-analyst)
+
+####    **Certificate:** __
+#
+
+### 5. [Cybersecurity Solutions and Microsoft Defender](https://www.coursera.org/learn/cybersecurity-solutions-and-microsoft-defender?specialization=microsoft-cybersecurity-analyst)
+
+####    **Certificate:** __
+#
+
+### 6. [Cybersecurity Tools and Technologies](https://www.coursera.org/learn/cybersecurity-tools-and-technologies?specialization=microsoft-cybersecurity-analyst)
+####    **Certificate:** __
+#
+
+### 7. [Cybersecurity Management and Compliance](https://www.coursera.org/learn/cybersecurity-management-and-compliance?specialization=microsoft-cybersecurity-analyst)
+####    **Certificate:** __
+#
+
+### 8. [Advanced Cybersecurity Concepts and Capstone Project](https://www.coursera.org/learn/advanced-cybersecurity-concepts-and-capstone-project?specialization=microsoft-cybersecurity-analyst)
+####    **Certificate:** __
+#
+
+### 9. [Microsoft SC-900 Exam Preparation and Practice](https://www.coursera.org/learn/microsoft-sc-900-exam-preparation-and-practice?specialization=microsoft-cybersecurity-analyst)
+####    **Certificate:** __
+#
+
+
+[*Coursera Honor Code*](https://www.coursera.support/s/article/209818863-Coursera-Honor-Code?language=en_US)
+
