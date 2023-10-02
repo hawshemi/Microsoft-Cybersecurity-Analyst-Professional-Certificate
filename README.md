@@ -6,7 +6,7 @@
 
 ### 1. [Introduction to Computers and Operating Systems and Security](https://www.coursera.org/learn/introduction-to-computers-and-operating-systems-and-security?specialization=microsoft-cybersecurity-analyst)
 
-####    **Certificate:** __https://www.coursera.org/account/accomplishments/verify/LHPC6TM7WYTN__
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/LHPC6TM7WYTN_
 #
 
 ### 2. [Introduction to Networking and Cloud Computing](https://www.coursera.org/learn/introduction-to-networking-and-cloud-computing?specialization=microsoft-cybersecurity-analyst)
