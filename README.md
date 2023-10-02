@@ -10,7 +10,7 @@ Microsoft Cybersecurity Analyst Professional Certificate
 ####    **Certificate:** __
 #
 
-### 2. [Cybersecurity Threat Vectors and Mitigation](https://www.coursera.org/learn/cybersecurity-threat-vectors-and-mitigation?specialization=microsoft-cybersecurity-analyst)
+### 2. [Introduction to Networking and Cloud Computing](https://www.coursera.org/learn/introduction-to-networking-and-cloud-computing?specialization=microsoft-cybersecurity-analyst)
 
 ####    **Certificate:** __
 #
