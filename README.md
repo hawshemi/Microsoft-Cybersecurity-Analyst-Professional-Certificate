@@ -11,7 +11,7 @@
 
 ### 2. [Introduction to Networking and Cloud Computing](https://www.coursera.org/learn/introduction-to-networking-and-cloud-computing?specialization=microsoft-cybersecurity-analyst)
 
-####    **Certificate:** __
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/8Q2Z29UBHHW3_
 #
 
 ### 3. [Cybersecurity Threat Vectors and Mitigation](https://www.coursera.org/learn/cybersecurity-threat-vectors-and-mitigation?specialization=microsoft-cybersecurity-analyst)
