@@ -16,7 +16,7 @@
 
 ### 3. [Cybersecurity Threat Vectors and Mitigation](https://www.coursera.org/learn/cybersecurity-threat-vectors-and-mitigation?specialization=microsoft-cybersecurity-analyst)
 
-####    **Certificate:** __
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/HY854VJP4KF2_
 #
 
 ### 4. [Cybersecurity Identity and Access Solutions using Azure AD](https://www.coursera.org/learn/cybersecurity-identity-and-access-solutions-with-azure-ad?specialization=microsoft-cybersecurity-analyst)
