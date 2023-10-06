@@ -26,7 +26,7 @@
 
 ### 5. [Cybersecurity Solutions and Microsoft Defender](https://www.coursera.org/learn/cybersecurity-solutions-and-microsoft-defender?specialization=microsoft-cybersecurity-analyst)
 
-####    **Certificate:** __
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/LQZ5MVQUVYTZ_
 #
 
 ### 6. [Cybersecurity Tools and Technologies](https://www.coursera.org/learn/cybersecurity-tools-and-technologies?specialization=microsoft-cybersecurity-analyst)
