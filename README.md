@@ -30,7 +30,7 @@
 #
 
 ### 6. [Cybersecurity Tools and Technologies](https://www.coursera.org/learn/cybersecurity-tools-and-technologies?specialization=microsoft-cybersecurity-analyst)
-####    **Certificate:** __
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/H83VZQCSA7U7_
 #
 
 ### 7. [Cybersecurity Management and Compliance](https://www.coursera.org/learn/cybersecurity-management-and-compliance?specialization=microsoft-cybersecurity-analyst)
