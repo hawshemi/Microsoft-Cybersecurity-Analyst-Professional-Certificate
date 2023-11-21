@@ -1,4 +1,4 @@
-# Microsoft-Cybersecurity-Analyst-Professional-Certificate
+# Microsoft Cybersecurity Analyst Professional Certificate
 
 ## [Microsoft Cybersecurity Analyst Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-cybersecurity-analyst)
 ####    **Certificate:** __
