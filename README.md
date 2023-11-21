@@ -34,7 +34,7 @@
 #
 
 ### 7. [Cybersecurity Management and Compliance](https://www.coursera.org/learn/cybersecurity-management-and-compliance?specialization=microsoft-cybersecurity-analyst)
-####    **Certificate:** __
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/BXWXCARFPFRB_
 #
 
 ### 8. [Advanced Cybersecurity Concepts and Capstone Project](https://www.coursera.org/learn/advanced-cybersecurity-concepts-and-capstone-project?specialization=microsoft-cybersecurity-analyst)
