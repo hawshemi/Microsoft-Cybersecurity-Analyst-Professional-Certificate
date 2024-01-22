@@ -38,7 +38,7 @@
 #
 
 ### 8. [Advanced Cybersecurity Concepts and Capstone Project](https://www.coursera.org/learn/advanced-cybersecurity-concepts-and-capstone-project?specialization=microsoft-cybersecurity-analyst)
-####    **Certificate:** __
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/9ARBGEWQAUQV_
 #
 
 ### 9. [Microsoft SC-900 Exam Preparation and Practice](https://www.coursera.org/learn/microsoft-sc-900-exam-preparation-and-practice?specialization=microsoft-cybersecurity-analyst)
