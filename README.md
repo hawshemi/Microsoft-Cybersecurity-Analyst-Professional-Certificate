@@ -1,7 +1,7 @@
 # Microsoft Cybersecurity Analyst Professional Certificate
 
 ## [Microsoft Cybersecurity Analyst Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-cybersecurity-analyst)
-####    **Certificate:** 
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/professional-cert/XRJQL7T8AZQ6_
 #
 
 ### 1. [Introduction to Computers and Operating Systems and Security](https://www.coursera.org/learn/introduction-to-computers-and-operating-systems-and-security?specialization=microsoft-cybersecurity-analyst)
@@ -42,7 +42,7 @@
 #
 
 ### 9. [Microsoft SC-900 Exam Preparation and Practice](https://www.coursera.org/learn/microsoft-sc-900-exam-preparation-and-practice?specialization=microsoft-cybersecurity-analyst)
-####    **Certificate:** __
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/JSW87RATY9AL_
 #
 
 
